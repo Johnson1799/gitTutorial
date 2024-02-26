@@ -1,0 +1,23 @@
+create git repo
+---------------------
+git init
+
+
+show the files which are in the staging area currently
+----------------------------------------------------------
+git status
+
+
+add a file to the staging area
+--------------------------------
+git add <filename>
+
+
+add all the files to the staging area
+--------------------------------
+git add .
+
+
+remove files from the staging area
+------------------------------------
+git rm --cached <filename>
